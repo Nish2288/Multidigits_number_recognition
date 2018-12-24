@@ -1,2 +1,2 @@
 # Multidigits_number_recognition
-Multidigits_number_ecognition
+Multidigits_number_Recognition
