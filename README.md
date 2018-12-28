@@ -19,3 +19,5 @@ use for image preprocessing
 Use this to predict numbers using webcam.
 
 # Detailed tutorial coming soon....
+
+### P.S : It's just a prototype, feel free to improve further.
